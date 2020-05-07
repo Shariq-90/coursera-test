@@ -1,0 +1,194 @@
+@media only screen and (min-width: 200px) and (max-width: 766px) {
+    #head{
+        height: 70px;
+        font-style: oblique;
+        font-size: large;
+        width: 100%;
+        color:black;
+        background-color: brown;
+        vertical-align: middle;
+        text-align: center;     
+    }
+    #item{
+        width: 90%;
+        height: 180px;
+        background-color: gray;
+        border: 2px solid black;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #item_2{
+        width: 90%;
+        height: 180px;
+        background-color: gray;
+        border: 2px solid black;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #item_3{
+        width: 90%;
+        height: 180px;
+        background-color: gray;
+        border: 2px solid black;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #first{
+        border: 2px solid black;
+        height: 30px;
+        float: right;
+        width: 29.5%;
+        background-color: rgb(184, 53, 155);
+        text-align: center;
+    }
+    h2{
+        margin-top: 0;
+    }
+    #second{
+        border: 2px solid black;
+        height: 30px;
+        float: right;
+        width: 29.5%;
+        background-color: rgb(219, 50, 50);
+        text-align: center;
+    }
+    #third{
+        border: 2px solid black;
+        height: 30px;
+        float: right;
+        width: 29.5%;
+        background-color: rgb(206, 214, 89);
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 767px) and (max-width: 991px) {
+    #head{
+        height: 70px;
+        font-style: oblique;
+        font-size: large;
+        width: 100%;
+        color:black;
+        background-color: brown;
+        vertical-align: middle;
+        text-align: center;     
+    }
+    #first{
+        border: 2px solid black;
+        height: 30px;
+        float: right;
+        width: 40%;
+        text-align: center;
+        background-color: rgb(184, 53, 155);
+    }
+    h2{
+        margin-top: 0;
+    }
+    #second{
+        border: 2px solid black;
+        height: 30px;
+        float: right;
+        width: 40%;
+        text-align: center;
+        background-color: rgb(219, 50, 50);
+    }
+    #third{
+        border: 2px solid black;
+        height: 30px;
+        float: right;
+        width: 30%;
+        text-align: center;
+        background-color: rgb(206, 214, 89);
+    }
+    #item{
+        width: 49%;
+        float: left;
+        height: 180px;
+        margin-top: 18px;
+        background-color: gray;
+        border: 2px solid black;
+    }
+    #item_2{
+        width: 49%;
+        float: right;
+        height: 180px;
+        background-color: gray;
+        border: 2px solid black;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #item_3{
+        margin-top: 5px;
+        width: 100%;
+        float: left;
+        height: 180px;
+        background-color: gray;
+        border: 2px solid black;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@media only screen and (min-width: 992px){
+    #head{
+        height: 70px;
+        font-style: oblique;
+        font-size: large;
+        width: 100%;
+        color:black;
+        vertical-align: middle;
+        text-align: center;     
+    }
+    #first{
+        border: 2px solid black;
+        height: 30px;
+        float: right;
+        width: 50%;
+        text-align: center;
+        background-color: rgb(184, 53, 155);
+    }
+    h2{
+        margin-top: 0;
+    }
+    #second{
+        border: 2px solid black;
+        height: 30px;
+        float: right;
+        width: 50%;
+        text-align: center;
+        background-color: rgb(219, 50, 50);
+    }
+    #third{
+        border: 2px solid black;
+        height: 30px;
+        float: right;
+        width: 50%;
+        text-align: center;
+        background-color: rgb(206, 214, 89);
+    }
+    #item{
+        width: 30%;
+        float: left;
+        height: 180px;
+        margin-top: 18px;
+        background-color: gray;
+        border: 2px solid black;
+    }
+    #item_2{
+        width: 30%;
+        height: 180px;
+        background-color: gray;
+        border: 2px solid black;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #item_3{
+        margin-top: -201px;
+        width: 30%;
+        float: right;
+        height: 180px;
+        background-color: gray;
+        border: 2px solid black;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
